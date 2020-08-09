@@ -6,3 +6,4 @@ http client 可以根据自己喜好更换httpclietn、okhttp...
 
 
 后续会了解Feign和hystrix高级功能
+没啥意思
